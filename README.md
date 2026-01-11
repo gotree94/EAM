@@ -1,4 +1,4 @@
-# EAM
+# Enterprise Asset Management, 전사적 자산 관리
 ---
 
 ## 1. e-Maintenance (e-메인터넌스)
